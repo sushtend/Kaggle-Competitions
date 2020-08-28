@@ -1,2 +1,2 @@
+Read the complete post here : http://sushtend.com/machine-learning/heart-disease-predictions-using-logistic-regression/
 
-https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
